@@ -1,0 +1,16 @@
+{
+  "option_gameguid": "991f2c7a-9525-425e-aa4a-afd1b3debb8a",
+  "option_game_speed": 60,
+  "option_mips_for_3d_textures": false,
+  "option_draw_colour": 4294967295,
+  "option_window_colour": 255,
+  "option_steam_app_id": "0",
+  "option_sci_usesci": true,
+  "option_author": "Garett Begnoche",
+  "option_lastchanged": "31 August 2018 6:48:43",
+  "option_spine_licence": false,
+  "resourceVersion": "1.2",
+  "name": "Main",
+  "tags": [],
+  "resourceType": "GMMainOptions",
+}
